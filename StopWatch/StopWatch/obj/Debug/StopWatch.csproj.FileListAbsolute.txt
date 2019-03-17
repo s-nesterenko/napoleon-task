@@ -1,0 +1,9 @@
+D:\NAPOLEON\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\NAPOLEON\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\NAPOLEON\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\NAPOLEON\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
